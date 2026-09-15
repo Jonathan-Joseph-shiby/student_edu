@@ -1,0 +1,21 @@
+job_company_name,exact_or_normalized_match,closest_company_name,similarity,status
+TechNova,,Tech Mahindra,0.60,unmatched_sql_null
+InnovateLabs,,Infosys,0.42,unmatched_sql_null
+DataDriven Inc,,Amazon India,0.42,unmatched_sql_null
+WebWorks,,Freshworks,0.67,unmatched_sql_null
+CloudCore,,HCL Technologies,0.42,unmatched_sql_null
+FinTech Solutions,,HCL Technologies,0.52,unmatched_sql_null
+AI Insights,,Infosys,0.47,unmatched_sql_null
+MobileFirst,,Google India,0.36,unmatched_sql_null
+WebScale,,Capgemini,0.35,unmatched_sql_null
+DataViz Corp,,Tata Consultancy Services (TCS),0.32,unmatched_sql_null
+SecureCode,,Accenture India,0.42,unmatched_sql_null
+AndroidStudio,,Reliance Jio,0.33,unmatched_sql_null
+APIGateway,,Persistent Systems,0.37,unmatched_sql_null
+AutomateFlow,,Amazon India,0.35,unmatched_sql_null
+GraphicsEdge,,Capgemini,0.38,unmatched_sql_null
+CloudDB,,Microsoft India,0.29,unmatched_sql_null
+ProductGen,,Capgemini,0.42,unmatched_sql_null
+BlockchainLabs,,Tech Mahindra,0.46,unmatched_sql_null
+VisionAI,,IBM India,0.50,unmatched_sql_null
+DataEngineering,,Amazon India,0.46,unmatched_sql_null

@@ -1,0 +1,101 @@
+alias_id,raw_skill,normalized_skill,category,confidence
+SA001,Python Programming,Python,Programming Language,1.0
+SA002,Python 3,Python,Programming Language,1.0
+SA003,Python Development,Python,Programming Language,1.0
+SA004,Python Dev,Python,Programming Language,1.0
+SA005,Py,Python,Programming Language,0.9
+SA006,ReactJS,React,Frontend Framework,1.0
+SA007,React.js,React,Frontend Framework,1.0
+SA008,React JS,React,Frontend Framework,1.0
+SA009,React Native,React Native,Frontend Framework,1.0
+SA010,MS Excel,Microsoft Excel,Business Tools,1.0
+SA011,Excel,Microsoft Excel,Business Tools,1.0
+SA012,Microsoft Excel,Microsoft Excel,Business Tools,1.0
+SA013,Excel Spreadsheet,Microsoft Excel,Business Tools,0.95
+SA014,Power BI,Power BI,Business Intelligence,1.0
+SA015,PowerBI,Power BI,Business Intelligence,1.0
+SA016,Microsoft Power BI,Power BI,Business Intelligence,1.0
+SA017,SQL Server,SQL,Database,1.0
+SA018,SQL,SQL,Database,1.0
+SA019,T-SQL,SQL,Database,1.0
+SA020,PostgreSQL,SQL,Database,0.95
+SA021,MySQL,SQL,Database,0.95
+SA022,Oracle Database,SQL,Database,0.95
+SA023,MongoDB,NoSQL Database,Database,1.0
+SA024,Mongo DB,NoSQL Database,Database,1.0
+SA025,JavaScript,JavaScript,Programming Language,1.0
+SA026,JS,JavaScript,Programming Language,0.85
+SA027,ECMAScript,JavaScript,Programming Language,1.0
+SA028,Node.js,Node.js,Backend Framework,1.0
+SA029,NodeJS,Node.js,Backend Framework,1.0
+SA030,Node JS,Node.js,Backend Framework,1.0
+SA031,Django,Django,Backend Framework,1.0
+SA032,Django Framework,Django,Backend Framework,1.0
+SA033,Flask,Flask,Backend Framework,1.0
+SA034,Flask Framework,Flask,Backend Framework,1.0
+SA035,Express.js,Express,Backend Framework,1.0
+SA036,ExpressJS,Express,Backend Framework,1.0
+SA037,Express JS,Express,Backend Framework,1.0
+SA038,Docker,Docker,DevOps,1.0
+SA039,Docker Containers,Docker,DevOps,1.0
+SA040,Containerization,Docker,DevOps,0.9
+SA041,Kubernetes,Kubernetes,DevOps,1.0
+SA042,K8s,Kubernetes,DevOps,1.0
+SA043,Kubernates,Kubernetes,DevOps,0.85
+SA044,AWS,AWS,Cloud Platform,1.0
+SA045,Amazon Web Services,AWS,Cloud Platform,1.0
+SA046,AWS Cloud,AWS,Cloud Platform,1.0
+SA047,Google Cloud,GCP,Cloud Platform,1.0
+SA048,GCP,GCP,Cloud Platform,1.0
+SA049,Google Cloud Platform,GCP,Cloud Platform,1.0
+SA050,Azure,Azure,Cloud Platform,1.0
+SA051,Microsoft Azure,Azure,Cloud Platform,1.0
+SA052,Machine Learning,Machine Learning,AI/ML,1.0
+SA053,ML,Machine Learning,AI/ML,0.9
+SA054,Deep Learning,Deep Learning,AI/ML,1.0
+SA055,Neural Networks,Deep Learning,AI/ML,0.95
+SA056,Natural Language Processing,NLP,AI/ML,1.0
+SA057,NLP,NLP,AI/ML,1.0
+SA058,Computer Vision,Computer Vision,AI/ML,1.0
+SA059,CV,Computer Vision,AI/ML,0.85
+SA060,Data Analysis,Data Analysis,Data,1.0
+SA061,Data Analytics,Data Analysis,Data,1.0
+SA062,Analytics,Data Analysis,Data,0.85
+SA063,Tableau,Tableau,Business Intelligence,1.0
+SA064,Tableau Desktop,Tableau,Business Intelligence,1.0
+SA065,Tableau Analytics,Tableau,Business Intelligence,1.0
+SA066,Java,Java,Programming Language,1.0
+SA067,Java Programming,Java,Programming Language,1.0
+SA068,Java Development,Java,Programming Language,1.0
+SA069,Spring Boot,Spring Boot,Backend Framework,1.0
+SA070,SpringBoot,Spring Boot,Backend Framework,1.0
+SA071,Spring Framework,Spring Framework,Backend Framework,1.0
+SA072,HTML,HTML,Frontend Technology,1.0
+SA073,HTML5,HTML,Frontend Technology,1.0
+SA074,HyperText Markup Language,HTML,Frontend Technology,1.0
+SA075,CSS,CSS,Frontend Technology,1.0
+SA076,CSS3,CSS,Frontend Technology,1.0
+SA077,Cascading Style Sheets,CSS,Frontend Technology,1.0
+SA078,Git,Git,Version Control,1.0
+SA079,Git Version Control,Git,Version Control,1.0
+SA080,GitHub,GitHub,Version Control,1.0
+SA081,GitLab,GitLab,Version Control,1.0
+SA082,Linux,Linux,Operating System,1.0
+SA083,Linux OS,Linux,Operating System,1.0
+SA084,Unix,Linux,Operating System,0.9
+SA085,Windows,Windows,Operating System,1.0
+SA086,Windows OS,Windows,Operating System,1.0
+SA087,REST API,REST API,API Technology,1.0
+SA088,RESTful API,REST API,API Technology,1.0
+SA089,GraphQL,GraphQL,API Technology,1.0
+SA090,Apache Kafka,Kafka,Data Streaming,1.0
+SA091,Kafka,Kafka,Data Streaming,1.0
+SA092,Apache Spark,Spark,Big Data,1.0
+SA093,Spark,Spark,Big Data,1.0
+SA094,Hadoop,Hadoop,Big Data,1.0
+SA095,Apache Hadoop,Hadoop,Big Data,1.0
+SA096,Terraform,Terraform,Infrastructure as Code,1.0
+SA097,Infrastructure as Code,Terraform,Infrastructure as Code,0.85
+SA098,Jenkins,Jenkins,CI/CD,1.0
+SA099,Jenkins CI/CD,Jenkins,CI/CD,1.0
+SA100,CI/CD Pipeline,CI/CD,DevOps,0.95

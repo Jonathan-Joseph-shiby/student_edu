@@ -1,0 +1,101 @@
+question_id,skill,difficulty,question,answer
+Q001,Python,Easy,What is a list in Python?,"A list is an ordered mutable collection of items defined using square brackets e.g. [1, 2, 3]."
+Q002,Python,Easy,What is the difference between a tuple and a list?,Tuples are immutable and defined with parentheses while lists are mutable and defined with square brackets.
+Q003,Python,Medium,What is the output of print(type(5/2))?,<class 'float'> because the / operator always returns a float in Python 3.
+Q004,Python,Medium,What is a dictionary comprehension? Give an example.,"A concise way to create dictionaries, e.g. {x: x*x for x in range(5)} creates squares of 0-4."
+Q005,Python,Medium,Explain the difference between deep copy and shallow copy.,A shallow copy copies references to nested objects while a deep copy recursively copies all nested objects independently.
+Q006,Python,Hard,What is the Global Interpreter Lock (GIL)?,A mutex in CPython that allows only one thread to execute Python bytecode at a time limiting true multithreading for CPU-bound tasks.
+Q007,Python,Hard,How do decorators work in Python?,Decorators are functions that wrap another function to extend its behavior without modifying its code using the @decorator syntax.
+Q008,Python,Medium,What is the purpose of the __init__ method in a class?,It is the constructor method called automatically when a new object is instantiated to initialize its attributes.
+Q009,Python,Easy,How do you handle exceptions in Python?,"Using try, except, else, and finally blocks to catch and handle errors gracefully."
+Q010,Python,Hard,What is a generator and how does it differ from a normal function?,A generator uses yield to produce values lazily one at a time maintaining state between calls instead of returning all values at once.
+Q011,SQL,Easy,What does the SELECT statement do?,It retrieves data from one or more tables in a database.
+Q012,SQL,Easy,What is a primary key?,A column or set of columns that uniquely identifies each row in a table and cannot contain NULL values.
+Q013,SQL,Medium,Write a query to join two tables Employees and Departments on department_id.,"SELECT e.name, d.department_name FROM Employees e JOIN Departments d ON e.department_id = d.department_id;"
+Q014,SQL,Medium,What is the difference between INNER JOIN and LEFT JOIN?,INNER JOIN returns only matching rows from both tables while LEFT JOIN returns all rows from the left table plus matched rows from the right table.
+Q015,SQL,Medium,What is the purpose of the GROUP BY clause?,It groups rows sharing a common value in specified columns so aggregate functions like COUNT or SUM can be applied per group.
+Q016,SQL,Hard,What is a subquery and when would you use one?,"A query nested inside another query used to filter or compute values needed by the outer query, often in WHERE or FROM clauses."
+Q017,SQL,Hard,Explain the difference between WHERE and HAVING clauses.,WHERE filters rows before aggregation while HAVING filters groups after aggregation has been applied.
+Q018,SQL,Medium,What is a foreign key?,A column that creates a link between two tables by referencing the primary key of another table.
+Q019,SQL,Hard,What is database normalization?,The process of organizing data to reduce redundancy and improve data integrity by dividing tables and defining relationships.
+Q020,SQL,Easy,What does the DISTINCT keyword do?,It removes duplicate rows from the query result set.
+Q021,Java,Easy,What is the difference between JDK and JVM?,JDK is the full development kit including compiler and tools while JVM is the runtime environment that executes Java bytecode.
+Q022,Java,Easy,What is a class in Java?,A blueprint for creating objects that defines fields and methods describing behavior and state.
+Q023,Java,Medium,What is the difference between an interface and an abstract class?,An interface defines only method signatures (with some default methods allowed) while an abstract class can have both implemented and unimplemented methods and instance state.
+Q024,Java,Medium,What is method overloading?,Defining multiple methods with the same name but different parameter lists within the same class.
+Q025,Java,Medium,Explain the concept of inheritance in Java.,A mechanism where a subclass acquires fields and methods of a parent class using the extends keyword promoting code reuse.
+Q026,Java,Hard,What is the difference between == and .equals() in Java?,== compares object references (memory addresses) while .equals() compares the actual content/value of objects when properly overridden.
+Q027,Java,Hard,What are Java Generics and why are they used?,Generics allow classes and methods to operate on typed parameters providing compile-time type safety and eliminating the need for casting.
+Q028,Java,Medium,What is exception handling in Java?,"A mechanism using try, catch, finally, and throw/throws to handle runtime errors without crashing the program."
+Q029,Java,Hard,What is the difference between checked and unchecked exceptions?,Checked exceptions are verified at compile-time and must be declared or handled while unchecked exceptions occur at runtime and extend RuntimeException.
+Q030,Java,Easy,What is the purpose of the 'static' keyword?,It indicates that a method or variable belongs to the class itself rather than to any specific instance.
+Q031,JavaScript,Easy,What is the difference between var,"let, and const?, var is function-scoped and can be redeclared, let is block-scoped and reassignable, const is block-scoped and cannot be reassigned."
+Q032,JavaScript,Easy,What is a callback function?,A function passed as an argument to another function to be executed after some operation completes.
+Q033,JavaScript,Medium,What is the output of console.log(1 + '1')?,'11' because JavaScript coerces the number to a string and concatenates them.
+Q034,JavaScript,Medium,Explain the concept of closures in JavaScript.,A closure is a function that retains access to its outer scope's variables even after the outer function has finished executing.
+Q035,JavaScript,Medium,What is the difference between == and === in JavaScript?,== compares values with type coercion while === compares both value and type without coercion.
+Q036,JavaScript,Hard,What is the event loop in JavaScript?,A mechanism that handles asynchronous callbacks by continuously checking the call stack and task queue allowing non-blocking execution.
+Q037,JavaScript,Hard,Explain the difference between Promises and async/await.,Promises handle asynchronous operations with .then/.catch chaining while async/await is syntactic sugar over Promises making async code look synchronous.
+Q038,JavaScript,Medium,What is hoisting in JavaScript?,A behavior where variable and function declarations are moved to the top of their scope before code execution.
+Q039,JavaScript,Hard,What is the difference between synchronous and asynchronous code execution?,Synchronous code executes sequentially blocking further execution until complete while asynchronous code allows other operations to run while waiting for a task to finish.
+Q040,JavaScript,Easy,What is JSON and why is it used?,JSON (JavaScript Object Notation) is a lightweight text format for storing and exchanging data between systems.
+Q041,React,Easy,What is a component in React?,"A reusable independent piece of UI, written as a function or class, that returns JSX to render on the screen."
+Q042,React,Easy,What is JSX?,A syntax extension for JavaScript that allows writing HTML-like code within JavaScript to describe UI structure.
+Q043,React,Medium,What is the difference between props and state?,Props are read-only data passed from parent to child components while state is data managed internally within a component that can change over time.
+Q044,React,Medium,What is the purpose of the useEffect hook?,It lets you perform side effects like data fetching or subscriptions in functional components after render.
+Q045,React,Medium,What is the virtual DOM and why does React use it?,A lightweight in-memory representation of the real DOM that React uses to efficiently calculate and apply minimal updates improving performance.
+Q046,React,Hard,What is the difference between controlled and uncontrolled components?,"Controlled components have their form data managed by React state while uncontrolled components rely on the DOM itself to store the value, accessed via refs."
+Q047,React,Hard,How does React's reconciliation algorithm work?,React compares the new virtual DOM tree with the previous one using a diffing algorithm to identify minimal changes needed and updates the real DOM efficiently.
+Q048,React,Medium,What is the purpose of keys in React lists?,"Keys help React identify which list items changed, were added, or removed, enabling efficient re-rendering."
+Q049,React,Hard,What is the Context API used for?,It provides a way to share data across the component tree without manually passing props down through every level.
+Q050,React,Easy,What is a functional component?,"A JavaScript function that accepts props and returns JSX, used to define UI in modern React applications."
+Q051,Excel,Easy,What is the purpose of the VLOOKUP function?,It searches for a value in the first column of a range and returns a value from a specified column in the same row.
+Q052,Excel,Easy,What is a pivot table used for?,"It summarizes, groups, and analyzes large datasets interactively without altering the original data."
+Q053,Excel,Medium,What is the difference between VLOOKUP and INDEX-MATCH?,"VLOOKUP searches left to right only and can be slower on large data while INDEX-MATCH is more flexible, searching in any direction and handling column insertions better."
+Q054,Excel,Medium,How do you use conditional formatting in Excel?,By selecting a range and applying rules under Home > Conditional Formatting to automatically style cells based on their values.
+Q055,Excel,Medium,What is the purpose of the IF function?,It returns one value if a specified condition is true and another value if it is false.
+Q056,Excel,Hard,Explain how absolute and relative cell references differ.,Relative references change when copied to other cells (e.g. A1) while absolute references stay fixed using dollar signs (e.g. $A$1).
+Q057,Excel,Hard,What are Excel macros and how are they created?,"Macros are recorded or VBA-coded sequences of actions that automate repetitive tasks, created via the Developer tab or VBA editor."
+Q058,Excel,Medium,What does the SUMIF function do?,It sums values in a range that meet a specified condition.
+Q059,Excel,Hard,What is the purpose of data validation in Excel?,"It restricts the type of data or values users can enter into a cell, helping maintain data accuracy and consistency."
+Q060,Excel,Easy,What is the difference between a workbook and a worksheet?,A workbook is the entire Excel file while a worksheet is a single sheet or tab within that file.
+Q061,Power BI,Easy,What is Power BI used for?,A business analytics tool used to visualize data and share insights through interactive dashboards and reports.
+Q062,Power BI,Easy,What is a dashboard in Power BI?,"A single-page collection of visuals, KPIs, and reports pinned together for at-a-glance data monitoring."
+Q063,Power BI,Medium,What is the difference between Power Query and DAX?,"Power Query is used for data extraction, transformation, and loading (ETL) while DAX is a formula language used to create calculated columns and measures."
+Q064,Power BI,Medium,What is a measure in Power BI?,"A dynamic calculation defined using DAX that aggregates data based on the current filter context, such as Total Sales."
+Q065,Power BI,Medium,What is the purpose of relationships between tables in Power BI?,"They define how data in different tables connects, enabling accurate cross-table filtering and aggregation in reports."
+Q066,Power BI,Hard,Explain the difference between calculated columns and measures.,Calculated columns are computed row-by-row and stored in the table while measures are calculated dynamically at query time based on filter context.
+Q067,Power BI,Hard,What is row-level security (RLS) in Power BI?,A feature that restricts data access for specific users by applying filters based on their roles within the same report.
+Q068,Power BI,Medium,What is the purpose of slicers in Power BI reports?,Slicers are visual filters that let users interactively narrow down the data displayed in reports and dashboards.
+Q069,Power BI,Hard,What is the difference between Import mode and DirectQuery mode?,Import mode loads data into Power BI's memory for faster performance while DirectQuery queries the source data live without importing it.
+Q070,Power BI,Easy,What file format does Power BI use to save reports?,Power BI Desktop files are saved with the .pbix extension.
+Q071,Machine Learning,Easy,What is the difference between supervised and unsupervised learning?,Supervised learning uses labeled data to train models while unsupervised learning finds patterns in unlabeled data.
+Q072,Machine Learning,Easy,What is overfitting?,"When a model learns the training data too well, including noise, resulting in poor performance on new unseen data."
+Q073,Machine Learning,Medium,What is the difference between classification and regression?,Classification predicts discrete categorical labels while regression predicts continuous numerical values.
+Q074,Machine Learning,Medium,What is cross-validation and why is it used?,"A technique that splits data into multiple folds to train and test a model repeatedly, providing a more reliable estimate of model performance."
+Q075,Machine Learning,Medium,Explain the bias-variance tradeoff.,Bias is error from overly simple assumptions while variance is error from sensitivity to training data; balancing both minimizes total prediction error.
+Q076,Machine Learning,Hard,What is regularization and why is it used?,A technique like L1 or L2 that adds a penalty term to the loss function to discourage overly complex models and reduce overfitting.
+Q077,Machine Learning,Hard,What is the difference between bagging and boosting?,"Bagging trains multiple models in parallel on random data subsets and averages results while boosting trains models sequentially, each correcting the errors of the previous one."
+Q078,Machine Learning,Medium,What is a confusion matrix used for?,"A table that summarizes classification model performance by showing true positives, true negatives, false positives, and false negatives."
+Q079,Machine Learning,Hard,Explain what gradient descent does in model training.,An optimization algorithm that iteratively adjusts model parameters in the direction that minimizes the loss function.
+Q080,Machine Learning,Easy,What is a feature in machine learning?,An individual measurable input variable or attribute used by a model to make predictions.
+Q081,Git,Easy,What is the difference between Git and GitHub?,Git is a distributed version control system while GitHub is a cloud platform for hosting and collaborating on Git repositories.
+Q082,Git,Easy,What does the git clone command do?,It creates a local copy of a remote repository on your machine.
+Q083,Git,Medium,What is the difference between git merge and git rebase?,Merge combines branch histories creating a new merge commit while rebase moves commits onto a new base creating a linear history.
+Q084,Git,Medium,What is a branch in Git?,An independent line of development that allows working on features or fixes without affecting the main codebase.
+Q085,Git,Medium,What does git pull do compared to git fetch?,git fetch downloads changes from a remote without merging while git pull fetches and automatically merges them into the current branch.
+Q086,Git,Hard,How do you resolve a merge conflict in Git?,"By manually editing the conflicting files to choose the correct changes, then staging and committing the resolved files."
+Q087,Git,Hard,What is the purpose of git stash?,"It temporarily saves uncommitted changes so you can switch branches, then reapply them later with git stash pop."
+Q088,Git,Medium,What is a commit in Git?,"A snapshot of changes made to the repository at a specific point in time, saved with a unique identifier and message."
+Q089,Git,Hard,What is the difference between git reset and git revert?,"git reset moves the branch pointer and can discard history while git revert creates a new commit that undoes previous changes, preserving history."
+Q090,Git,Easy,What is a .gitignore file used for?,It specifies files and folders that Git should intentionally ignore and not track in version control.
+Q091,Communication,Easy,Why is active listening important in the workplace?,"It ensures accurate understanding, reduces misunderstandings, and builds trust and rapport between colleagues."
+Q092,Communication,Easy,What is the difference between verbal and non-verbal communication?,"Verbal communication uses spoken or written words while non-verbal communication includes body language, tone, and facial expressions."
+Q093,Communication,Medium,How would you explain a technical concept to a non-technical audience?,"By using simple language, relatable analogies, avoiding jargon, and focusing on outcomes and impact rather than technical detail."
+Q094,Communication,Medium,What makes an email professional and effective?,"A clear subject line, concise structure, polite tone, well-organized content, and a clear call to action."
+Q095,Communication,Medium,How do you handle disagreements in a team setting?,"By listening to all perspectives, staying respectful, focusing on facts, and working collaboratively toward a shared solution."
+Q096,Communication,Hard,What strategies help improve communication in cross-functional teams?,"Establishing common terminology, setting clear expectations, using regular check-ins, and adapting communication style to different stakeholders."
+Q097,Communication,Hard,How would you deliver critical feedback constructively?,"By being specific, focusing on behavior not personality, balancing it with positives, and offering actionable suggestions in a respectful tone."
+Q098,Communication,Medium,Why is clarity important when giving instructions to a team?,"It prevents misunderstandings, reduces errors, and ensures tasks are completed efficiently and as intended."
+Q099,Communication,Hard,How do you tailor communication style for different stakeholders such as executives versus engineers?,"By adjusting the level of detail, focusing executives on outcomes and impact while providing engineers with technical specifics and context."
+Q100,Communication,Easy,What is the importance of tone in written communication?,"Tone conveys attitude and intent, influencing how a message is perceived and helping maintain professionalism and clarity."

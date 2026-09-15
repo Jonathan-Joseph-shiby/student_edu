@@ -1,0 +1,174 @@
+{
+  "files": {
+    "jobs.csv": {
+      "original_rows": 20,
+      "cleaned_rows": 20,
+      "rows_recovered_from_malformed_parsing": 20,
+      "genuinely_unimportable_rows": 0
+    },
+    "curriculum.csv": {
+      "original_rows": 20,
+      "cleaned_rows": 20,
+      "rows_recovered_from_malformed_parsing": 20,
+      "genuinely_unimportable_rows": 0
+    },
+    "skill_aliases.csv": {
+      "original_rows": 100,
+      "cleaned_rows": 100,
+      "rows_recovered_from_malformed_parsing": 0,
+      "genuinely_unimportable_rows": 0
+    },
+    "skill_curriculum_mapping.csv": {
+      "original_rows": 100,
+      "cleaned_rows": 100,
+      "rows_recovered_from_malformed_parsing": 6,
+      "genuinely_unimportable_rows": 0
+    },
+    "student.csv": {
+      "original_rows": 20,
+      "cleaned_rows": 20,
+      "rows_recovered_from_malformed_parsing": 0,
+      "genuinely_unimportable_rows": 0
+    },
+    "questions.csv": {
+      "original_rows": 100,
+      "cleaned_rows": 100,
+      "rows_recovered_from_malformed_parsing": 35,
+      "genuinely_unimportable_rows": 0
+    },
+    "learning_resources.csv": {
+      "original_rows": 20,
+      "cleaned_rows": 20,
+      "rows_recovered_from_malformed_parsing": 0,
+      "genuinely_unimportable_rows": 0
+    },
+    "companies.csv": {
+      "original_rows": 20,
+      "cleaned_rows": 20,
+      "rows_recovered_from_malformed_parsing": 20,
+      "genuinely_unimportable_rows": 0
+    }
+  },
+  "company_matching": {
+    "matched_jobs": 0,
+    "unmatched_jobs": 20,
+    "unmatched_company_names": [
+      "AI Insights",
+      "APIGateway",
+      "AndroidStudio",
+      "AutomateFlow",
+      "BlockchainLabs",
+      "CloudCore",
+      "CloudDB",
+      "DataDriven Inc",
+      "DataEngineering",
+      "DataViz Corp",
+      "FinTech Solutions",
+      "GraphicsEdge",
+      "InnovateLabs",
+      "MobileFirst",
+      "ProductGen",
+      "SecureCode",
+      "TechNova",
+      "VisionAI",
+      "WebScale",
+      "WebWorks"
+    ],
+    "companies_created": 0,
+    "unmatched_company_id_representation": "blank CSV field imported as SQL NULL",
+    "mapping_report": "company_match_report.csv"
+  },
+  "unmatched_skills": {
+    "skill_curriculum_mapping.csv": [
+      "ACID Properties",
+      "AJAX",
+      "Abstract Data Types",
+      "Access Control",
+      "Agile Methodology",
+      "Algorithms",
+      "Bootstrap",
+      "C Programming",
+      "CNN",
+      "CSS3",
+      "Classification",
+      "Cloud Computing Concepts",
+      "Clustering",
+      "Complexity Analysis",
+      "Cryptography",
+      "DOM",
+      "Data Structures",
+      "Database Design",
+      "Deployment",
+      "Design Principles",
+      "Distributed Databases",
+      "Documentation",
+      "Dynamic Programming",
+      "Feature Engineering",
+      "File Systems",
+      "HTML5",
+      "Indexing",
+      "Knowledge Representation",
+      "Linear Regression",
+      "Load Balancing",
+      "Logic Building",
+      "Logistic Regression",
+      "Maintenance",
+      "Memory Management",
+      "MongoDB",
+      "MySQL",
+      "Natural Language Processing",
+      "Network Layers",
+      "Network Security",
+      "Neural Networks",
+      "NoSQL",
+      "Normalization",
+      "Optimization Techniques",
+      "Penetration Testing",
+      "Pointers",
+      "PostgreSQL",
+      "Process Management",
+      "PyTorch",
+      "Query Optimization",
+      "RNN",
+      "Regression",
+      "Relational Database Design",
+      "Requirements Engineering",
+      "Responsive Design",
+      "Routing Protocols",
+      "SDLC",
+      "Scheduling Algorithms",
+      "Search Algorithms",
+      "Supervised Learning",
+      "Support Vector Machines",
+      "TCP/IP",
+      "TensorFlow",
+      "Testing",
+      "Testing Methodologies",
+      "Transactions",
+      "Unsupervised Learning",
+      "Version Control",
+      "Virtualization",
+      "Vue.js"
+    ],
+    "questions.csv": [
+      "Communication",
+      "Excel"
+    ],
+    "learning_resources.csv": [
+      "Cloud Computing",
+      "Cybersecurity",
+      "Data Science",
+      "Statistics",
+      "Web Development"
+    ]
+  },
+  "broken_references": [
+    {
+      "source": "skill_curriculum_mapping.csv",
+      "field": "course_id",
+      "missing_targets": []
+    }
+  ],
+  "canonical_skill_proposals": "canonical_skill_proposals.csv",
+  "status": "PASS_WITH_REVIEW_ITEMS"
+}

@@ -1,0 +1,7 @@
+import type { ReactNode } from 'react'
+export function Loading({ label = 'Loading live analysis...' }: { label?: string }) { return <div className="panel-state"><span className="spinner" /><span>{label}</span></div> }
+export function ErrorState({ message, retry }: { message: string; retry?: () => void }) { return <div className="panel-state error-state"><strong>Unable to load this view</strong><span>{message}</span>{retry && <button className="button secondary" onClick={retry}>Try again</button>}</div> }
+export function Empty({ children = 'No data available.' }: { children?: ReactNode }) { return <div className="panel-state"><span className="empty-mark">—</span><span>{children}</span></div> }
+export function Badge({ children, tone = 'neutral' }: { children: ReactNode; tone?: 'neutral' | 'danger' | 'success' | 'amber' }) { return <span className={`badge ${tone}`}>{children}</span> }
+export function Metric({ label, value, detail, accent = '' }: { label: string; value: string | number; detail?: string; accent?: string }) { return <div className="metric"><span className="metric-label">{label}</span><strong className={accent}>{value}</strong>{detail && <span className="metric-detail">{detail}</span>}</div> }
+export function SectionTitle({ eyebrow, title, description, action }: { eyebrow?: string; title: string; description?: string; action?: ReactNode }) { return <div className="section-title"><div>{eyebrow && <span className="eyebrow">{eyebrow}</span>}<h2>{title}</h2>{description && <p>{description}</p>}</div>{action}</div> }

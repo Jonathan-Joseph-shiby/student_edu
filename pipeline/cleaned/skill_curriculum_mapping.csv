@@ -1,0 +1,101 @@
+mapping_id,course_id,course_code,course_title,skill,skill_category,coverage,gap_analysis
+M001,CUR001,CS6101,Problem Solving using C,C Programming,Programming Language,High,Foundational - Widely Taught
+M002,CUR001,CS6101,Problem Solving using C,Logic Building,Programming Fundamentals,High,Foundational - Widely Taught
+M003,CUR001,CS6101,Problem Solving using C,Pointers,Programming Fundamentals,High,Foundational - Widely Taught
+M004,CUR002,CS6202,Data Structures,Data Structures,Computer Science Fundamentals,High,Foundational - Widely Taught
+M005,CUR002,CS6202,Data Structures,Algorithms,Computer Science Fundamentals,High,Foundational - Widely Taught
+M006,CUR002,CS6202,Data Structures,Complexity Analysis,Computer Science Fundamentals,High,Critical Foundation for Optimization
+M007,CUR003,CS6301,Database Management Systems,SQL,Database,High,Foundational - Widely Taught
+M008,CUR003,CS6301,Database Management Systems,Database Design,Database,High,Foundational - Widely Taught
+M009,CUR003,CS6301,Database Management Systems,Normalization,Database,High,Foundational - Widely Taught
+M010,CUR003,CS6301,Database Management Systems,Transactions,Database,Medium,Important but implementation details often skipped
+M011,CUR003,CS6301,Database Management Systems,PostgreSQL,Database,Low,INDUSTRY GAP: Specific database systems rarely covered
+M012,CUR003,CS6301,Database Management Systems,MySQL,Database,Low,INDUSTRY GAP: Specific database systems rarely covered
+M013,CUR003,CS6301,Database Management Systems,MongoDB,NoSQL Database,Low,INDUSTRY GAP: NoSQL completely missing from curriculum
+M014,CUR003,CS6301,Database Management Systems,Query Optimization,Database,Medium,Important but hands-on practice limited
+M015,CUR004,CS6402,Operating Systems,Process Management,Operating Systems,High,Foundational - Widely Taught
+M016,CUR004,CS6402,Operating Systems,Memory Management,Operating Systems,High,Foundational - Widely Taught
+M017,CUR004,CS6402,Operating Systems,File Systems,Operating Systems,Medium,"Theory-heavy, practical understanding limited"
+M018,CUR004,CS6402,Operating Systems,Linux,Operating Systems,Low,INDUSTRY GAP: Linux OS knowledge critical but rarely taught
+M019,CUR004,CS6402,Operating Systems,Scheduling Algorithms,Operating Systems,High,Foundational - Widely Taught
+M020,CUR005,CS6501,Web Technologies,HTML,Frontend Technology,High,Foundational - Widely Taught
+M021,CUR005,CS6501,Web Technologies,CSS,Frontend Technology,High,Foundational - Widely Taught
+M022,CUR005,CS6501,Web Technologies,JavaScript,Programming Language,Medium,"Teaching hours limited, hands-on practice insufficient"
+M023,CUR005,CS6501,Web Technologies,React,Frontend Framework,Low,INDUSTRY GAP: Modern frameworks (React/Vue) completely missing
+M024,CUR005,CS6501,Web Technologies,Vue.js,Frontend Framework,Low,INDUSTRY GAP: Modern frameworks (React/Vue) completely missing
+M025,CUR005,CS6501,Web Technologies,Responsive Design,Frontend Technology,Low,INDUSTRY GAP: Mobile-first design rarely emphasized
+M026,CUR005,CS6501,Web Technologies,AJAX,Frontend Technology,Medium,Mentioned but practical projects limited
+M027,CUR006,CS6602,Machine Learning,Python,Programming Language,High,Widely taught for ML applications
+M028,CUR006,CS6602,Machine Learning,Supervised Learning,Machine Learning,High,Foundational ML theory - Widely Taught
+M029,CUR006,CS6602,Machine Learning,Regression,Machine Learning,High,Foundational ML - Widely Taught
+M030,CUR006,CS6602,Machine Learning,Classification,Machine Learning,High,Foundational ML - Widely Taught
+M031,CUR006,CS6602,Machine Learning,Unsupervised Learning,Machine Learning,Medium,Theory covered but practical applications limited
+M032,CUR006,CS6602,Machine Learning,Clustering,Machine Learning,Medium,Theory covered but hands-on projects rare
+M033,CUR006,CS6602,Machine Learning,Neural Networks,Deep Learning,Medium,"Introduction only, modern architectures not covered"
+M034,CUR006,CS6602,Machine Learning,TensorFlow,Machine Learning,Low,INDUSTRY GAP: ML frameworks (TensorFlow/PyTorch) completely missing
+M035,CUR006,CS6602,Machine Learning,PyTorch,Machine Learning,Low,INDUSTRY GAP: ML frameworks (TensorFlow/PyTorch) completely missing
+M036,CUR006,CS6602,Machine Learning,Natural Language Processing,NLP,Low,INDUSTRY GAP: NLP applications not taught
+M037,CUR006,CS6602,Machine Learning,Computer Vision,Computer Vision,Low,INDUSTRY GAP: Computer Vision not taught
+M038,CUR006,CS6602,Machine Learning,Feature Engineering,Machine Learning,Medium,Mentioned but hands-on practice insufficient
+M039,CUR007,CS15CS21,Programming Fundamentals,C Programming,Programming Language,High,Foundational - Widely Taught
+M040,CUR008,CS15CS34,Database Systems,Relational Database Design,Database,High,Foundational - Widely Taught
+M041,CUR008,CS15CS34,Database Systems,SQL,Database,High,Foundational - Widely Taught
+M042,CUR008,CS15CS34,Database Systems,Indexing,Database,Medium,"Theory-heavy, practical optimization skills limited"
+M043,CUR008,CS15CS34,Database Systems,ACID Properties,Database,High,Foundational - Widely Taught
+M044,CUR009,CS15CS53,Web Programming,HTML5,Frontend Technology,High,Foundational - Widely Taught
+M045,CUR009,CS15CS53,Web Programming,CSS3,Frontend Technology,High,Foundational - Widely Taught
+M046,CUR009,CS15CS53,Web Programming,JavaScript,Programming Language,Medium,Teaching hours limited for complex applications
+M047,CUR009,CS15CS53,Web Programming,Bootstrap,Frontend Framework,Low,INDUSTRY GAP: CSS frameworks rarely taught
+M048,CUR009,CS15CS53,Web Programming,Responsive Design,Frontend Technology,Low,INDUSTRY GAP: Mobile-first design not emphasized
+M049,CUR009,CS15CS53,Web Programming,DOM,Frontend Technology,Medium,Covered but hands-on practice limited
+M050,CUR010,CS15CS54,Cloud Computing,Cloud Computing Concepts,Cloud Computing,High,Foundational theory - Widely Taught
+M051,CUR010,CS15CS54,Cloud Computing,Virtualization,Cloud Computing,High,Foundational - Widely Taught
+M052,CUR010,CS15CS54,Cloud Computing,AWS,Cloud Platform,Low,INDUSTRY GAP: AWS highly demanded but barely covered
+M053,CUR010,CS15CS54,Cloud Computing,GCP,Cloud Platform,Low,INDUSTRY GAP: GCP highly demanded but barely covered
+M054,CUR010,CS15CS54,Cloud Computing,Azure,Cloud Platform,Low,INDUSTRY GAP: Azure highly demanded but barely covered
+M055,CUR010,CS15CS54,Cloud Computing,Docker,DevOps,Medium,Mention in syllabus but insufficient hands-on practice
+M056,CUR010,CS15CS54,Cloud Computing,Kubernetes,DevOps,Low,INDUSTRY GAP: Kubernetes missing from most curricula
+M057,CUR010,CS15CS54,Cloud Computing,Load Balancing,Cloud Computing,Medium,Theory covered but practical setup not taught
+M058,CUR011,CS201,Data Structures and Algorithms,Data Structures,Computer Science Fundamentals,High,Foundational - Widely Taught
+M059,CUR011,CS201,Data Structures and Algorithms,Algorithms,Computer Science Fundamentals,High,Foundational - Widely Taught
+M060,CUR011,CS201,Data Structures and Algorithms,Dynamic Programming,Computer Science Fundamentals,High,Foundational - Widely Taught
+M061,CUR012,CS401,Database Design,Database Design,Database,High,Foundational - Widely Taught
+M062,CUR012,CS401,Database Design,SQL,Database,High,Foundational - Widely Taught
+M063,CUR012,CS401,Database Design,Normalization,Database,High,Foundational - Widely Taught
+M064,CUR013,CS501,Software Engineering,SDLC,Software Engineering,High,Foundational - Widely Taught
+M065,CUR013,CS501,Software Engineering,Version Control,Software Engineering,Low,INDUSTRY GAP: Git/GitHub barely covered
+M066,CUR013,CS501,Software Engineering,Testing,Software Engineering,Medium,Theory covered but hands-on testing frameworks not taught
+M067,CUR013,CS501,Software Engineering,Agile Methodology,Software Engineering,Medium,Introduced but practical Scrum/Kanban not taught
+M068,CUR013,CS501,Software Engineering,CI/CD,DevOps,Low,INDUSTRY GAP: CI/CD pipelines completely missing
+M069,CUR014,CS201,Computer Networks,Network Layers,Computer Networks,High,Foundational - Widely Taught
+M070,CUR014,CS201,Computer Networks,TCP/IP,Computer Networks,High,Foundational - Widely Taught
+M071,CUR014,CS201,Computer Networks,Routing Protocols,Computer Networks,High,Foundational - Widely Taught
+M072,CUR015,CS301,Artificial Intelligence,Search Algorithms,Artificial Intelligence,High,Foundational AI - Widely Taught
+M073,CUR015,CS301,Artificial Intelligence,Knowledge Representation,Artificial Intelligence,Medium,Theory covered but practical systems not built
+M074,CUR015,CS301,Artificial Intelligence,Natural Language Processing,NLP,Low,INDUSTRY GAP: NLP applications not taught
+M075,CUR015,CS301,Artificial Intelligence,Computer Vision,Computer Vision,Low,INDUSTRY GAP: Computer Vision not taught
+M076,CUR016,CS F211,Data Structures and Algorithms,Abstract Data Types,Computer Science Fundamentals,High,Foundational - Widely Taught
+M077,CUR016,CS F211,Data Structures and Algorithms,Complexity Analysis,Computer Science Fundamentals,High,Foundational - Widely Taught
+M078,CUR017,CS F364,Cybersecurity,Cryptography,Cybersecurity,High,Foundational - Widely Taught
+M079,CUR017,CS F364,Cybersecurity,Network Security,Cybersecurity,High,Foundational - Widely Taught
+M080,CUR017,CS F364,Cybersecurity,Access Control,Cybersecurity,High,Foundational - Widely Taught
+M081,CUR017,CS F364,Cybersecurity,Penetration Testing,Cybersecurity,Low,INDUSTRY GAP: Practical security testing rarely taught
+M082,CUR018,CS101,Database Systems,SQL,Database,High,Foundational - Widely Taught
+M083,CUR018,CS101,Database Systems,Query Optimization,Database,Medium,Theory covered but hands-on optimization limited
+M084,CUR018,CS101,Database Systems,Distributed Databases,Database,Medium,"Introduction only, implementation not taught"
+M085,CUR018,CS101,Database Systems,NoSQL,NoSQL Database,Low,INDUSTRY GAP: NoSQL completely missing from most curricula
+M086,CUR019,CS201,Machine Learning and Deep Learning,Python,Programming Language,High,Widely taught for ML applications
+M087,CUR019,CS201,Machine Learning and Deep Learning,Linear Regression,Machine Learning,High,Foundational ML - Widely Taught
+M088,CUR019,CS201,Machine Learning and Deep Learning,Logistic Regression,Machine Learning,High,Foundational ML - Widely Taught
+M089,CUR019,CS201,Machine Learning and Deep Learning,Support Vector Machines,Machine Learning,Medium,Theory covered but practical implementation limited
+M090,CUR019,CS201,Machine Learning and Deep Learning,Neural Networks,Deep Learning,Medium,"Introduction only, modern architectures not covered"
+M091,CUR019,CS201,Machine Learning and Deep Learning,CNN,Deep Learning,Low,INDUSTRY GAP: Modern DL architectures (CNN/RNN) rarely covered
+M092,CUR019,CS201,Machine Learning and Deep Learning,RNN,Deep Learning,Low,INDUSTRY GAP: Modern DL architectures (CNN/RNN) rarely covered
+M093,CUR019,CS201,Machine Learning and Deep Learning,Optimization Techniques,Machine Learning,Medium,Theory covered but hands-on optimization projects limited
+M094,CUR020,CS207,Software Engineering Principles,SDLC,Software Engineering,High,Foundational - Widely Taught
+M095,CUR020,CS207,Software Engineering Principles,Requirements Engineering,Software Engineering,High,Foundational - Widely Taught
+M096,CUR020,CS207,Software Engineering Principles,Design Principles,Software Engineering,High,Foundational - Widely Taught
+M097,CUR020,CS207,Software Engineering Principles,Testing Methodologies,Software Engineering,Medium,Theory covered but hands-on automation testing not taught
+M098,CUR020,CS207,Software Engineering Principles,Deployment,Software Engineering,Low,INDUSTRY GAP: Deployment and DevOps practices not taught
+M099,CUR020,CS207,Software Engineering Principles,Maintenance,Software Engineering,Medium,Mentioned but practical monitoring and logging not taught
+M100,CUR020,CS207,Software Engineering Principles,Documentation,Software Engineering,Medium,Importance stated but practical technical writing not emphasized

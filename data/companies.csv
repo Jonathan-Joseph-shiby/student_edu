@@ -1,0 +1,21 @@
+company_id,company_name,industry,headquarters,states,website,company_size,domains
+C001,Tata Consultancy Services (TCS),Information Technology,Mumbai,Maharashtra,https://www.tcs.com,50000+,Software Development, IT Consulting, Digital Transformation, Cloud Services
+C002,Infosys,Information Technology,Bangalore,Karnataka,https://www.infosys.com,50000+,IT Services, Consulting, System Integration, BPO
+C003,Wipro,Information Technology,Bangalore,Karnataka,https://www.wipro.com,50000+,IT Services, Business Process Services, Cloud Solutions, AI/ML
+C004,HCL Technologies,Information Technology,Noida,Uttar Pradesh,https://www.hcl.com,50000+,IT Services, R&D, Product Engineering, Digital Services
+C005,Accenture India,Management Consulting,Bangalore,Karnataka,https://www.accenture.com,10000-50000,Consulting, Technology Services, Outsourcing, Strategy
+C006,Tech Mahindra,Information Technology,Pune,Maharashtra,https://www.techmahindra.com,50000+,IT Services, Network Services, Digital Solutions, Cloud
+C007,Zoho,Software/SaaS,Chennai,Tamil Nadu,https://www.zoho.com,5000-10000,CRM, Business Software, Cloud Computing, Analytics
+C008,Freshworks,Software/SaaS,Chennai,Tamil Nadu,https://www.freshworks.com,3000-5000,Customer Engagement, Helpdesk Software, CRM, HR
+C009,BYJU'S,EdTech,Bangalore,Karnataka,https://www.byjus.com,5000-10000,Online Learning, Educational Technology, Test Prep, K-12
+C010,Flipkart,E-Commerce,Bangalore,Karnataka,https://www.flipkart.com,10000-50000,Retail, Logistics, Digital Payments, Technology
+C011,HDFC Bank,Financial Services,Mumbai,Maharashtra,https://www.hdfcbank.com,50000+,Banking, Digital Banking, Investment Services, Insurance
+C012,Reliance Jio,Telecommunications,Mumbai,Maharashtra,https://www.jio.com,50000+,Telecom, Broadband, Digital Services, Retail
+C013,Amazon India,E-Commerce,Bangalore,Karnataka,https://www.amazon.in,10000-50000,Retail, Cloud Services, Digital Advertising, Logistics
+C014,Google India,Technology,Bangalore,Karnataka,https://www.google.com/intl/en_in/,10000-50000,Search, Advertising, Cloud, Android, YouTube
+C015,Microsoft India,Technology,Bangalore,Karnataka,https://www.microsoft.com/en-in/,10000-50000,Software, Cloud Computing, AI, Enterprise Solutions
+C016,IBM India,Information Technology,Bangalore,Karnataka,https://www.ibm.com/in-en/,10000-50000,IT Services, Cloud, AI, Consulting
+C017,Capgemini,IT Services,Bangalore,Karnataka,https://www.capgemini.com,50000+,IT Services, Consulting, Digital Transformation, Engineering
+C018,Cognizant,IT Services,Chennai,Tamil Nadu,https://www.cognizant.com,50000+,IT Services, Digital Technology, Operations, Consulting
+C019,Mindtree,IT Services,Bangalore,Karnataka,https://www.mindtree.com,30000-50000,IT Services, Digital Solutions, Cloud Services, Engineering
+C020,Persistent Systems,Software Development,Pune,Maharashtra,https://www.persistent.com,10000-30000,Software Development, Cloud Solutions, Product Engineering, AI/ML

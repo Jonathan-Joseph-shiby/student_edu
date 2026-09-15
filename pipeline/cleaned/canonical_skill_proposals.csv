@@ -1,0 +1,77 @@
+observed_skill,proposed_canonical_skill,disposition,rationale
+ACID Properties,ACID Properties,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+AJAX,AJAX,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Abstract Data Types,Abstract Data Types,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Access Control,Access Control,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Agile Methodology,Agile Methodology,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Algorithms,Algorithms,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Bootstrap,Bootstrap,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+C Programming,C Programming,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+CNN,CNN,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+CSS3,CSS,existing_alias_requires_review,Existing skill_aliases.csv mapping; no source change made
+Classification,Classification,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Cloud Computing,Cloud Computing,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Cloud Computing Concepts,Cloud Computing Concepts,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Clustering,Clustering,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Communication,Communication,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Complexity Analysis,Complexity Analysis,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Cryptography,Cryptography,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Cybersecurity,Cybersecurity,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+DOM,DOM,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Data Science,Data Science,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Data Structures,Data Structures,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Database Design,Database Design,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Deployment,Deployment,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Design Principles,Design Principles,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Distributed Databases,Distributed Databases,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Documentation,Documentation,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Dynamic Programming,Dynamic Programming,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Excel,Microsoft Excel,existing_alias_requires_review,Existing skill_aliases.csv mapping; no source change made
+Feature Engineering,Feature Engineering,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+File Systems,File Systems,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+HTML5,HTML,existing_alias_requires_review,Existing skill_aliases.csv mapping; no source change made
+Indexing,Indexing,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Knowledge Representation,Knowledge Representation,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Linear Regression,Linear Regression,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Load Balancing,Load Balancing,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Logic Building,Logic Building,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Logistic Regression,Logistic Regression,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Maintenance,Maintenance,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Memory Management,Memory Management,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+MongoDB,NoSQL Database,existing_alias_requires_review,Existing skill_aliases.csv mapping; no source change made
+MySQL,SQL,existing_alias_requires_review,Existing skill_aliases.csv mapping; no source change made
+Natural Language Processing,NLP,existing_alias_requires_review,Existing skill_aliases.csv mapping; no source change made
+Network Layers,Network Layers,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Network Security,Network Security,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Neural Networks,Deep Learning,existing_alias_requires_review,Existing skill_aliases.csv mapping; no source change made
+NoSQL,NoSQL,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Normalization,Normalization,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Optimization Techniques,Optimization Techniques,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Penetration Testing,Penetration Testing,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Pointers,Pointers,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+PostgreSQL,SQL,existing_alias_requires_review,Existing skill_aliases.csv mapping; no source change made
+Process Management,Process Management,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+PyTorch,PyTorch,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Query Optimization,Query Optimization,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+RNN,RNN,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Regression,Regression,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Relational Database Design,Relational Database Design,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Requirements Engineering,Requirements Engineering,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Responsive Design,Responsive Design,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Routing Protocols,Routing Protocols,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+SDLC,SDLC,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Scheduling Algorithms,Scheduling Algorithms,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Search Algorithms,Search Algorithms,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Statistics,Statistics,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Supervised Learning,Supervised Learning,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Support Vector Machines,Support Vector Machines,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+TCP/IP,TCP/IP,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+TensorFlow,TensorFlow,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Testing,Testing,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Testing Methodologies,Testing Methodologies,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Transactions,Transactions,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Unsupervised Learning,Unsupervised Learning,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Version Control,Version Control,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Virtualization,Virtualization,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Vue.js,Vue.js,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change
+Web Development,Web Development,new_canonical_candidate,No existing alias found; requires explicit approval before taxonomy change

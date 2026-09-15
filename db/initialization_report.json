@@ -1,0 +1,15 @@
+{
+  "companies": 20,
+  "skills": 41,
+  "skill_aliases": 100,
+  "job_postings": 20,
+  "job_skill_observations": 138,
+  "curricula": 20,
+  "curriculum_skill_observations": 100,
+  "students": 20,
+  "assessment_questions": 100,
+  "learning_resources": 20,
+  "unresolved_skill_observations": 137,
+  "jobs_with_null_company_id": 20,
+  "broken_curriculum_references": 0
+}

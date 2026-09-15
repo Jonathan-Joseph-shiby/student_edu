@@ -1,0 +1,21 @@
+skill,resource_name,platform,url,level,type
+Python,Python Tutorial,W3Schools,https://www.w3schools.com/python/,Beginner,Tutorial
+SQL,SQL Tutorial,W3Schools,https://www.w3schools.com/sql/,Beginner,Tutorial
+Machine Learning,Machine Learning Course,NPTEL,https://nptel.ac.in/courses/106106213/,Intermediate,Course
+JavaScript,The Complete JavaScript Course 2024,Udemy,https://www.udemy.com/course/the-complete-javascript-course/,Beginner,Video Course
+React,React - The Complete Guide,Udemy,https://www.udemy.com/course/react-the-complete-guide/,Intermediate,Video Course
+Data Analysis,Data Analysis with Pandas,DataCamp,https://www.datacamp.com/courses/data-manipulation-with-pandas,Intermediate,Interactive Course
+Web Development,Full Stack Web Development Bootcamp,Codecademy,https://www.codecademy.com/learn/full-stack-engineer,Beginner,Bootcamp
+Git,Git and GitHub Crash Course,YouTube,https://www.youtube.com/watch?v=RGOj5yH7evk,Beginner,Video Tutorial
+Docker,Docker for Beginners,Udacity,https://www.udacity.com/course/containerized-development--ud1109,Intermediate,Course
+AWS,AWS Certified Solutions Architect,Coursera,https://www.coursera.org/learn/aws-cloud-technical-essentials,Intermediate,Certification Course
+Statistics,Statistics Fundamentals,Khan Academy,https://www.khanacademy.org/math/statistics-probability,Beginner,Video Lessons
+Python,Advanced Python Programming,Real Python,https://realpython.com/python-advanced/,Advanced,Article Series
+Java,Java Programming Masterclass,Udemy,https://www.udemy.com/course/java-the-complete-java-developer-course/,Beginner,Video Course
+Node.js,Node.js and Express.js Complete Course,Udemy,https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/,Intermediate,Video Course
+CSS,CSS Complete Guide,Udemy,https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/,Beginner,Video Course
+Kubernetes,Kubernetes for Developers,Linux Academy,https://www.linuxacademy.com/kubernetes-for-developers,Advanced,Course
+Data Science,Data Science Specialization,Coursera,https://www.coursera.org/specializations/jhu-data-science,Intermediate,Specialization
+Python,Data Structures and Algorithms,GeeksforGeeks,https://www.geeksforgeeks.org/data-structures/,Intermediate,Tutorial
+Cloud Computing,Google Cloud Fundamentals,Pluralsight,https://www.pluralsight.com/courses/google-cloud-platform-fundamentals,Beginner,Course
+Cybersecurity,Cybersecurity Fundamentals,Coursera,https://www.coursera.org/learn/introduction-to-cybersecurity,Beginner,Course

@@ -1,0 +1,21 @@
+student_id,name,state,degree,department,year,semester,skills,experience,certifications,assessment_score
+S001,Aarav Sharma,Maharashtra,B.Tech,Computer Science,3,6,"Python, Java, SQL",1 year internship,AWS Cloud Practitioner,88
+S002,Priya Nair,Kerala,B.Tech,Electronics,2,4,"C++, Embedded Systems",No experience,None,76
+S003,Rohan Verma,Delhi,MCA,Computer Applications,1,2,"Python, Django, React",6 months internship,Google IT Support,82
+S004,Sneha Iyer,Tamil Nadu,B.Sc,Data Science,3,5,"R, Python, Machine Learning",Research Assistant,Microsoft Azure AI Fundamentals,91
+S005,Karan Mehta,Gujarat,B.Tech,Mechanical Engineering,4,7,"AutoCAD, SolidWorks",Internship at Tata Motors,None,73
+S006,Ananya Reddy,Telangana,B.Tech,Computer Science,2,3,"Java, Spring Boot, MySQL",No experience,Oracle Java Certification,85
+S007,Vikram Singh,Rajasthan,B.Com,Finance,3,6,"Excel, Tally, Financial Modeling",Internship at local bank,NISM Certification,79
+S008,Ishita Kapoor,Punjab,B.Tech,Information Technology,1,1,"HTML, CSS, JavaScript",No experience,None,68
+S009,Arjun Patel,Gujarat,B.Tech,Civil Engineering,4,8,"AutoCAD, Structural Analysis",Site engineer internship,PMP Foundation,80
+S010,Meera Krishnan,Karnataka,MBA,Marketing,2,3,"Digital Marketing, SEO, Analytics",Marketing intern at startup,Google Digital Marketing,87
+S011,Aditya Rao,Andhra Pradesh,B.Tech,Computer Science,3,5,"Python, Machine Learning, TensorFlow",AI research intern,DeepLearning.AI Specialization,93
+S012,Fatima Shaikh,Maharashtra,B.Sc,Mathematics,2,4,"Statistics, R, Excel",Teaching assistant,None,74
+S013,Rahul Gupta,Uttar Pradesh,B.Tech,Electrical Engineering,3,6,"MATLAB, Circuit Design",Internship at power plant,None,71
+S014,Divya Menon,Kerala,MCA,Computer Applications,2,4,"Java, Android Development",Mobile app freelancer,Android Developer Certification,84
+S015,Siddharth Joshi,Madhya Pradesh,B.Tech,Computer Science,1,2,"C, Python, DSA",No experience,None,66
+S016,Neha Agarwal,West Bengal,B.Com,Accounting,3,5,"Tally, GST, Excel",Accounting intern,CA Foundation,78
+S017,Manish Kumar,Bihar,B.Tech,Mechanical Engineering,2,3,"CAD, Manufacturing Processes",No experience,None,69
+S018,Pooja Desai,Gujarat,B.Sc,Biotechnology,4,7,"Lab Techniques, Bioinformatics",Research intern at biotech firm,NPTEL Bioinformatics,89
+S019,Sanjay Yadav,Haryana,B.Tech,Information Technology,3,6,"Networking, Cybersecurity, Linux",IT support intern,CompTIA Security+,86
+S020,Kavya Pillai,Tamil Nadu,MBA,Human Resources,1,1,"Communication, Recruitment, MS Office",HR intern,SHRM Foundation,75
